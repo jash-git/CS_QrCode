@@ -16,3 +16,15 @@ C:\Users\jashliao\Desktop\CS_QrCode\CS_QrCode\obj\Debug\CS_QrCode.pdb
 C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\CS_QrCode.exe.config
 C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.exe
 C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.pdb
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\CS_QrCode.exe
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\CS_QrCode.pdb
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.dll
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.presentation.dll
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.pdb
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.xml
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.presentation.pdb
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\bin\Debug\zxing.presentation.xml
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.Form1.resources
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_QrCode\code\CS_QrCode\obj\Debug\CS_QrCode.csproj.GenerateResource.Cache

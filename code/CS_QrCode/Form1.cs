@@ -65,7 +65,7 @@ namespace CS_QrCode
             //---
             //單純QR
                 Bitmap bitmap = null;
-                string strQrCodeContent = "http://www.syris.com/index.php";
+                string strQrCodeContent = "http://jashliao.eu/wordpress/";
                 ZXing.BarcodeWriter writer = new ZXing.BarcodeWriter
                 {
                     Format = ZXing.BarcodeFormat.QR_CODE,
@@ -97,11 +97,15 @@ namespace CS_QrCode
             //---單純QR
 
             //---
-            //插入LOGO
+            //插入LOGO QrCode
             strDir = System.Windows.Forms.Application.StartupPath;
             strDir += "\\temp01.png";
-            GetQRCodeByZXingNet("http://www.syris.com/index.php", 200, 200).Save(strDir, System.Drawing.Imaging.ImageFormat.Png);
-            //---插入LOGO
+            Bitmap bitmap01 = null;
+            bitmap01 = GetQRCodeByZXingNet("http://jashliao.eu/wordpress/", 200, 200);
+            bitmap01.Save(strDir, System.Drawing.Imaging.ImageFormat.Png);
+
+            pictureBox1.Image = bitmap01;
+            //---插入LOGO QrCode
         }
     }
 }
